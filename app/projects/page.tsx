@@ -80,6 +80,16 @@ const projectData: Project[] = [
     image: "/ice-cold-studio.png",
   },
   {
+    title: "Kings LMS",
+    category: "SaaS / Web App",
+    desc: "Engineered a scalable, enterprise-grade LMS featuring a comprehensive 9-module architecture, including real-time video lecture rooms, automated attendance tracking, and role-based assessment engines. Built for performance using an SPA architecture with centralized state management.",
+    tech: ["Next.js", "TailwindCSS", "Shadcn UI", "Zustand", "Lucide React", "WebRTC Concepts"],
+    link: "https://distant-learning.vercel.app/",
+    github: "https://github.com/yourcoderrguy/distant-learning",
+    featured: true,
+    image: "/distant-learning.png",
+  },
+  {
     title: "Elvaan B2B Equipment Rental",
     category: "Marketplace",
     desc: "Contributed to an established B2B equipment rental marketplace built on Sharetribe Flex. Assisted the core team by debugging complex transaction flows and integrating custom frontend features to improve the overall platform experience.",
